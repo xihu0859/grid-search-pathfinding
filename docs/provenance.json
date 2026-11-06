@@ -1,0 +1,5 @@
+{
+  "source": "author-supplied standalone search implementation",
+  "sha256": "58539c0a8e4a9814d50afc447440585d76d801fba88e88a3730370052b030ff5",
+  "changes": "Implementation preserved; examples, documentation, comparison runner and tests added."
+}

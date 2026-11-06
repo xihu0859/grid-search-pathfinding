@@ -1,0 +1,3 @@
+Greedy Search Initiated
+Expanded: (0, 0)
+NO PATH FOUND!

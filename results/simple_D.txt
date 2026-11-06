@@ -1,0 +1,4 @@
+DFS Search Initiated
+Expanded: (2, 1)(1, 1)(0, 1)(0, 0)
+Path Found: [(2, 1), (1, 1), (0, 1), (0, 0)]
+Taking this path will cost: 3 Willpower
